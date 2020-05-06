@@ -1,0 +1,5 @@
+The idea for this app came from the popular car renting 
+app known as "Citybee". This was an assingment.
+The program takes data and coordinates of individual cars
+from a URL and puts the on a map where the user can interact with the 
+car objects and also see his own location
